@@ -1,22 +1,22 @@
-## Hi there 👋, I'm Fernando Britto
+## Hola 👋, soy Fernando Britto
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="14"> English</a></td></tr>
- <tr><td><a href="README_es.md"><img src="images/es-flag.png" height="14"> Spanish</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="14"> Portuguese</a></td></tr>
+ <tr><td><a href="README.md"><img src="images/us-flag.png" height="14"> Inglés</a></td></tr>
+ <tr><td><a href="README_es.md"><img src="images/es-flag.png" height="14"> Español</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="14"> Portugués</a></td></tr>
 </table>
 
-### 👨🏽‍💻 &nbsp;About Me
+### 👨🏽‍💻 &nbsp;Acerca de mí
 
-&nbsp;&nbsp;&nbsp;🔭 &nbsp;I’m currently working on Grupo Boticario. \
-&nbsp;&nbsp;&nbsp;🌱 &nbsp;I’m currently studying Information Technology Management. \
-&nbsp;&nbsp;&nbsp;💓 &nbsp;Passionate with problem solving, challenging projects, startups and innovation.\
-&nbsp;&nbsp;&nbsp;👨‍👩‍👦 &nbsp;Living in Santa Catarina in Brazil with my lovely wife 💘 and our puppy Thanos 🐶.
+&nbsp;&nbsp;&nbsp;🔭 &nbsp;Actualmente trabajo en Grupo Boticario. \
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;Actualmente estudio Gestión de Tecnología de la Información. \
+&nbsp;&nbsp;&nbsp;💓 &nbsp;Apasionado por resolver problemas, proyectos desafiantes, startups e innovación. \
+&nbsp;&nbsp;&nbsp;👨‍👩‍👦 &nbsp;Viviendo en Santa Catarina, Brasil, con mi encantadora esposa 💘 y nuestro perrito Thanos 🐶.
 
 <hr/>
 
 <details>
-  <summary><b>💻 &nbsp;Main tech knowledge</b></summary>
+  <summary><b>💻 &nbsp;Principales conocimientos tecnológicos</b></summary>
   <br/>
 
 ![Serverless](https://camo.githubusercontent.com/9a5ae0ebc9b7e1261df86045426e5d1bbbab67827df9143d51ada8c25bfd7f41/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5365727665726c65737326636f6c6f723d464435373530266c6f676f3d5365727665726c657373266c6f676f436f6c6f723d464646464646266c6162656c3d)&nbsp;
@@ -55,7 +55,7 @@
 </details>
 
 <details>
-  <summary><b>🧠 &nbsp;Other knowledge, always learning</b></summary>
+  <summary><b>🧠 &nbsp;Otros conocimientos, siempre aprendiendo</b></summary>
   <br/>
 
 ![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;
@@ -75,7 +75,7 @@
 </details>
 
 <details>
-  <summary><b>⚙️ &nbsp;GitHub Statistics</b></summary>
+  <summary><b>⚙️ &nbsp;Estadísticas de GitHub</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandobritto&hide_border=true&theme=nightowl" />
