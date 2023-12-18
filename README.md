@@ -8,7 +8,7 @@
 
 ### 👨🏽‍💻 &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;🔭 &nbsp;I’m currently working on Grupo Boticario. \
+&nbsp;&nbsp;&nbsp;🔭 &nbsp;I’m currently working on TODOS Empreendimentos. \
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;I’m currently studying Information Technology Management. \
 &nbsp;&nbsp;&nbsp;💓 &nbsp;Passionate with problem solving, challenging projects, startups and innovation.\
 &nbsp;&nbsp;&nbsp;👨‍👩‍👦 &nbsp;Living in Santa Catarina in Brazil with my lovely wife 💘 and our puppy Thanos 🐶.

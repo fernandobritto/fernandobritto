@@ -8,7 +8,7 @@
 
 ### 👨🏽‍💻 &nbsp;Sobre Mim
 
-&nbsp;&nbsp;&nbsp;🔭 &nbsp;Atualmente, estou trabalhando no Grupo Boticário. \
+&nbsp;&nbsp;&nbsp;🔭 &nbsp;Atualmente, estou trabalhando no TODOS Empreendimentos. \
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Atualmente, estou estudando Gestão da Tecnologia da Informação. \
 &nbsp;&nbsp;&nbsp;💓 &nbsp;Apaixonado por solucionar problemas, projetos desafiadores, startups e inovação.\
 &nbsp;&nbsp;&nbsp;👨‍👩‍👦 &nbsp;Morando em Santa Catarina, no Brasil, com minha amada esposa 💘 e nosso cachorrinho Thanos 🐶.
