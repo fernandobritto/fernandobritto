@@ -9,7 +9,7 @@
 ### 👨🏽‍💻 &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;🔭 &nbsp;I’m currently working on Compass UOL. \
-&nbsp;&nbsp;&nbsp;🌱 &nbsp;I’m currently studying Information Technology Management. \
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;I’m currently studying MBA in Full Cycle architecture. \
 &nbsp;&nbsp;&nbsp;💓 &nbsp;Passionate with problem solving, challenging projects, startups and innovation.\
 &nbsp;&nbsp;&nbsp;👨‍👩‍👦 &nbsp;Living in Santa Catarina in Brazil with my lovely wife 💘 and our puppy Thanos 🐶.
 

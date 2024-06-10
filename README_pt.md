@@ -9,7 +9,7 @@
 ### 👨🏽‍💻 &nbsp;Sobre Mim
 
 &nbsp;&nbsp;&nbsp;🔭 &nbsp;Atualmente, estou trabalhando no Compass UOL. \
-&nbsp;&nbsp;&nbsp;🌱 &nbsp;Atualmente, estou estudando Gestão da Tecnologia da Informação. \
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;Atualmente, estou estudando MBA em Arquitetura Full Cycle. \
 &nbsp;&nbsp;&nbsp;💓 &nbsp;Apaixonado por solucionar problemas, projetos desafiadores, startups e inovação.\
 &nbsp;&nbsp;&nbsp;👨‍👩‍👦 &nbsp;Morando em Santa Catarina, no Brasil, com minha amada esposa 💘 e nosso cachorrinho Thanos 🐶.
 
