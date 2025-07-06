@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Fernando Britto
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="14"> English</a></td></tr>
- <tr><td><a href="README_es.md"><img src="images/es-flag.png" height="14"> Spanish</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="14"> Portuguese</a></td></tr>
+ <tr><td><a href="README.md"> English</a></td></tr>
+ <tr><td><a href="README_es.md"> Spanish</a></td></tr>
+ <tr><td><a href="README_pt.md"> Portuguese</a></td></tr>
 </table>
 
 ### 👨🏽‍💻 &nbsp;About Me
